@@ -26,7 +26,6 @@ public class Traitement
 
             Files
                     .lines( Paths.get(inPath), StandardCharsets.UTF_8)
-                    .parallel()
                     .forEach(printWriter::println);
 
             printWriter.close();
