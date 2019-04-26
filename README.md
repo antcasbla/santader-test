@@ -11,4 +11,4 @@ PRUEBA1 :
 
 SOLUCIÓN:
 
-He utilizado los Streams de JAVA 8 para leyendo de forma continua (sin bloqueo) de una fuente (en este caso un fichero 1), ya escribiendo en otro fichero 2 a medida que se va leyendo cada línea del ficheo 1 sin necesidad de esperar a que termine de leerse el fichero 1.
+He utilizado los Streams de JAVA 8 para leyendo de forma continua (sin bloqueo) de una fuente (en este caso un fichero 1), vaya escribiendo en otro fichero 2 a medida que se va leyendo cada línea del ficheo 1 sin necesidad de esperar a que termine de leerse el fichero 1.
